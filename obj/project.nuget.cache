@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "an0oL+YyHD1de1qzRFj051PUeUTL8QUKEG9AZ7su5Avp6XaXLLp6i3hjbK4IMEDGmOl/PKlma6euzRf6owNDOQ==",
+  "success": true,
+  "projectFilePath": "/run/media/marksinabutar/myDisk/my studies/Semester 6/Pre Internship/Matrix_Operation/Matrix_Operation.csproj",
+  "expectedPackageFiles": [
+    "/home/marksinabutar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
